@@ -1,4 +1,3 @@
-
 import Navbar from "./components/Navbar"
 import Search from "./components/Search"
 import Product from "./components/Product"
